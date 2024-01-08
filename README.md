@@ -293,4 +293,19 @@ FQDN is your directory's internal dns name (eg. company.local or company.com etc
 Bind & Join Primary and Auxilliary accounts. These are used for connecting to AD and Joining VMs to AD. Refer to documentation for more information.
 
 > [!IMPORTANT]
-> SSL Certificate - Currently this application will only use the PEM format, and the filename of your certificate must be located at the root of the HznCloudAutoDeploy application and must be named cert.pem 
+> SSL Certificate - Currently this application will only use the PEM format, and the filename of your certificate must be located at the root of the HznCloudAutoDeploy application and must be named cert.pem
+
+# Screenshots
+
+| Example Screenshots | Description |
+| --- | --- |
+| ![screenshot](https://github.com/tbwfdu/hzncloudautodeploy/blob/main/images/SCR-20230222-igb.png) | Main Menu |
+| ![screenshot](https://github.com/tbwfdu/hzncloudautodeploy/blob/main/images/SCR-20230222-ii8.png) | By default, it will use a Browser to get Azure Authentication |
+| ![screenshot](https://github.com/tbwfdu/hzncloudautodeploy/blob/main/images/SCR-20230222-ijj.png) | View Azure Configuration Details |
+| ![screenshot](https://github.com/tbwfdu/hzncloudautodeploy/blob/main/images/SCR-20230222-ihk.png) | View Horizon Configuration Details |
+| ![screenshot](https://github.com/tbwfdu/hzncloudautodeploy/blob/main/images/SCR-20230222-ij0.png) | Azure Deployment Validation Warnings |
+| ![screenshot](https://github.com/tbwfdu/hzncloudautodeploy/blob/main/images/SCR-20230222-ij6.png) | Azure Warnings Detailed Information |
+| ![screenshot](https://github.com/tbwfdu/hzncloudautodeploy/blob/main/images/SCR-20230222-ijy.png) | Horizon Cloud Detailed Warnings |
+| ![screenshot](https://github.com/tbwfdu/hzncloudautodeploy/blob/main/images/SCR-20230222-ih8.png) | Pre-Deployment Confirmation |
+| ![screenshot](https://github.com/tbwfdu/hzncloudautodeploy/blob/main/images/SCR-20230222-ikh.png) | Azure Pre-Deletion Confirmation |
+| ![screenshot](https://github.com/tbwfdu/hzncloudautodeploy/blob/main/images/SCR-20230222-il0.png) | Horizon Pre-Deletion Confirmation |
