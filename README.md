@@ -86,7 +86,7 @@ After completing this cleanup it should delete all resources that been configure
 > If you need to locate the Client ID and Secret for the Service Principal, this can be found in ./results/servicePrincipal/secret.json
 
 # Downloads
-The latest version of HznCloudAutoDeploy is [available here]()
+The latest version of HznCloudAutoDeploy is [available here](https://github.com/tbwfdu/hzncloudautodeploy/releases/tag/v1.3)
 
 # Usage  
 
